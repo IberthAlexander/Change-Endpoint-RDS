@@ -11,7 +11,7 @@ def lambda_handler(event, context):
                         'Name': 'reader2.pruebardp.com.pruebardp.com',
                         'ResourceRecords': [
                             {
-                                'Value': 'ENDPOINT-LECTURA-DRP-LOSABETERRAFORM.rds.amazonaws.com',
+                                'Value': 'ENDPOINT-LECTURA-DRP-LO-SABETERRAFORM.rds.amazonaws.com',
                             },
                         ],
                         'SetIdentifier': 'drp',
