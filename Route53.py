@@ -50,6 +50,6 @@ def lambda_handler(event, context):
                 },
             ],
         },
-        HostedZoneId='Z091004726I0IMRMRCA77',
+        HostedZoneId='Hoztedzoneid',
     )
     print(response)
